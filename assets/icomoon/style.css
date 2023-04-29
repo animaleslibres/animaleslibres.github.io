@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?a9zn7q');
+  src:  url('fonts/icomoon.eot?a9zn7q#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?a9zn7q') format('truetype'),
+    url('fonts/icomoon.woff?a9zn7q') format('woff'),
+    url('fonts/icomoon.svg?a9zn7q#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-animales-libres-logo:before {
+  content: "\e93b";
+}
+.icon-animales-libres-mascot:before {
+  content: "\e93d";
+}
+.icon-animales-libres-mascot-fill:before {
+  content: "\e93c";
+}
+.icon-close:before {
+  content: "\e911";
+}
+.icon-hamburger-two:before {
+  content: "\e91d";
+}
+.icon-down:before {
+  content: "\e915";
+}
+.icon-long-arrow-left-light:before {
+  content: "\e929";
+}
+.icon-long-arrow-right-light:before {
+  content: "\e92a";
+}
+.icon-heart-fill:before {
+  content: "\e91f";
+}
+.icon-warning:before {
+  content: "\e94c";
+}
+.icon-buy-me-a-coffee:before {
+  content: "\e90a";
+}
+.icon-telegram:before {
+  content: "\e93e";
+}

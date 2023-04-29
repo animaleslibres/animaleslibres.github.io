@@ -1,0 +1,507 @@
+// Animales Libres
+// Design and Development. Fluorescente github: @fluorescente
+// fluorescente.design
+
+// Type scale: https://www.modularscale.com/?16&px&1.2
+// Spaces scale: 2 / 4 / 8 / 16 / 32 / 64 / 128
+// Spaces scale: 6 / 12 / 24 / 48
+
+// Variables
+
+// Color variables
+$brand: #FFB6C6;
+$brand-2: #B2FCE4;
+$brand-3: #6F33DB;
+$dark: #111;
+$bright: #FFFEFA;
+
+$gray-1: #f7f7f7;
+$gray-2: #c6c6c6;
+$gray-3: #949494;
+$gray-4: #636363;
+$gray-5: #313131;
+
+$transparent: rgba(0,0,0,0);
+$box-shadow: -1px -1px 17px -2px rgba(0,0,0,0.13);
+$transition: .7s ease;
+$transition-quick: .4s ease;
+
+// Type variables
+
+$sans-serif: 'League Spartan Variable', sans-serif;
+$serif: 'Fanwood', serif;
+
+$regular: 400;
+$regular-italic: 400i;
+
+$medium: 600;
+$medium-italic: 600i;
+
+$bold: 700;
+$bold-italic: 700i;
+
+$big-text: 1.802rem;
+$medium-text: 1.424rem;
+$small-text: 1.125rem;
+$micro-text: 1rem;
+$small-medium-text: 1.266rem;
+
+$big-line-height: 2.6307375rem;
+$medium-line-height: 2.078675rem;
+$small-line-height: 1.6425rem;
+$micro-line-height: 1.6rem;
+$small-medium-line-height: 1.8478125rem;
+
+// xs - Up to 768px
+@media only screen and (max-width: 48em){
+  // visible/hidden
+  .visible-sm{
+    display: block;
+  }
+  .hidden-xs{
+    display: none;
+  }
+}
+
+// sm - from 768
+@media only screen and (min-width: 48em) {
+  // visible/hidden
+  .visible-sm{
+    display: block;
+  }
+  .hidden-sm{
+    display: none;
+  }
+  // Headings
+  h1{
+    font-size: 3.247rem;
+    line-height: 3.653rem;
+  }
+  h2{
+    font-size: 2.566rem;
+    line-height: 2.887rem;
+  }
+  h3{
+    font-size: 2.281rem;
+    line-height: 2.566rem;
+  }
+  h4{
+    font-size: 1.802rem;
+    line-height: 2.027rem;
+  }
+  h5{
+    font-size: 1.602rem;
+    line-height: 1.802rem;
+  }
+  // Buttons
+  .button-big, .link-big{
+    font-size: $medium-text;
+  }
+  .button{
+    & .visible-sm{
+      display: inline-block;
+    }
+  }
+  // Main nav
+  .main-nav{
+    padding: 1rem 0 .5rem 0;
+    & li{
+      & a{
+        font-size: $small-medium-text;
+      }
+    }
+  }
+  // Modal nav
+  .uk-modal-full{
+    & .uk-modal-body{
+      padding: 1rem 0 2.4rem 0;
+    }
+  }
+  // Header
+  .button-wide-xs{
+    display: inline-block;
+  }
+  .index-header, .internal-header{
+    padding: 0 0 1rem 0;
+    background-color: $dark;
+    background-image: url(../images/hero-image-home-tablet.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    & h1, & p{
+      color: $bright;
+    }
+    & .content-box{
+      margin: 6rem 0 2.5rem 0;
+      padding: 0 2rem 0 0;
+    }
+    & .text-box{
+      margin: 0 0 2.5rem 0;
+    }
+  }
+  .down{
+    color: $bright;
+    font-size: 2rem;
+    -webkit-transition: $transition-quick;
+    transition: $transition-quick;
+    &:hover{
+      color: $brand-2;
+    }
+  }
+
+  .internal-header{
+    background-color: $transparent;
+    background-image: none;
+    color: $dark;
+    & .main-nav{
+      & .logo{
+        color: $dark;
+        &:hover{
+          color: $brand;
+        }
+      }
+      & ul{
+        background-color: $transparent;
+        & .active{
+          &:after{
+            background-color: $dark;
+          }
+        }
+        & a, .active{
+          color: $dark;
+          &:hover{
+            color: $dark;
+            &:after{
+              background-color: $brand;
+            }
+          }
+        }
+      }
+      & .social{
+        & a{
+          &:hover{
+            color: $brand;
+            &:after{
+              background-color: $transparent;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // Content
+  .content{
+    & .row{
+      padding: 0 0 4rem 0;
+      margin: 0 0 4.5rem 0;
+    }
+    & .text-box{
+      margin: 0 0 2rem 0;
+    }
+    & .preview-events-and-articles{
+      margin: 0;
+    }
+    & .preview-event{
+      padding: 0;
+      border-bottom: none;
+    }
+  }
+
+  .recipes{
+      & li{
+        &:nth-child(odd){
+          padding-left: 0;
+          padding-right: .5rem;
+        }
+        &:nth-child(even){
+          padding-right: inherit;
+          padding-left: .5rem;
+        }
+      }
+    }
+
+  .content-post .content-lessons{
+    margin: 2rem 0 3rem 0;
+  }
+  .events-gallery, .articles-gallery{
+    margin-bottom: 2rem;
+    & li{
+      margin-bottom: 3.5rem;
+      &:nth-child(odd){
+        padding-left: 0;
+        padding-right: .5rem;
+      }
+      &:nth-child(even){
+        padding-right: 0;
+        padding-left: .5rem;
+      }
+    }
+  }
+  &.shrink-nav{
+    & .social{
+      & a{
+        &:hover{
+          &:after{
+            background-color: $transparent !important;
+          }
+        }
+      }
+    }
+    & a, .active{
+      &:hover{
+        &:after{
+          background-color: $dark !important;
+        }
+      }
+    }
+  }
+  .members{
+    & figure{
+      width: 100%;
+    }
+  }
+}
+
+// lg - from 962
+@media only screen and (min-width: 62em) {
+  // visible/hidden
+  .visible-lg{
+    display: block;
+  }
+  .hidden-lg{
+    display: none;
+  }
+  // Main nav
+  .main-nav{
+    background-color: $transparent;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    & .nav-right{
+      padding: 0 1rem;
+    }
+    & .logo{
+      font-size: 8.5rem;
+      color: $bright;
+      &:hover{
+        color: $brand-2;
+      }
+    }
+    & ul{
+      // background-color: $dark;
+      // padding: .5rem 1rem;
+      & li{
+        margin-right: 1.2rem;
+        & a{
+          font-family: $sans-serif;
+          font-weight: $bold;
+          font-size: $small-medium-text;
+          color: $bright;
+          &:hover{
+            color: $brand-2;
+          }
+        }
+      }
+    }
+    & .social{
+      display: inline-block;
+      & li{
+        margin-right: 1rem;
+        &:last-child{
+          margin-right: 0;
+        }
+        & a{
+          font-size: $small-medium-text;
+        }
+      }
+    }
+  }
+  // content-box nav
+  .shrink-nav{
+    // background-color: $bright;
+    background-color: $brand-2;
+    // box-shadow: $box-shadow;
+    // -webkit-box-shadow: $box-shadow;
+    // -moz-box-shadow: $box-shadow;
+    & ul{
+      margin-top: -.5rem;
+      background-color: $transparent;
+    }
+    & li{
+      margin-right: 1rem !important;
+      & .active{
+        &:after{
+          background-color: $dark !important;
+        }
+      }
+      & a, .active{
+        color: $dark !important;
+        font-size: $small-text !important;
+        &:hover{
+          color: $dark !important;
+          &:after{
+            background-color: $dark;
+          }
+        }
+      }
+    }
+    & .social{
+      position: relative;
+      top: .2rem;
+      & li{
+        margin-right: .75rem !important;
+      }
+      & a{
+        &:hover{
+          // color: $bright !important;
+          &:after{
+            background-color: $transparent;
+          }
+        }
+      }
+    }
+    & .logo{
+      font-size: 1.5rem;
+      color: $dark;
+      &:hover{
+        color: $dark !important;
+      }
+      & span{
+        &:before{
+          content: "\e93c";
+        }
+      }
+    }
+  }
+  // Index
+  .index-header{
+    background-image: url(../images/hero-image-home-variant.png);
+  }
+  .internal-header{
+    background-image: none;
+  }
+  .why-big-text{
+    margin: 0 0 4rem 0 !important;
+    padding: 0 0 4rem 0 !important;
+  }
+  // Posts
+  .content-post, .content-lessons{
+    margin: -1.5rem 0 4.5rem 0;
+  }
+  .content-lessons{
+    padding: 0;
+    & .article-container{
+      padding: 0 0 1rem 0 !important;
+    }
+  }
+  .content-event-article{
+    margin: 0 0 4.5rem 0;
+  }
+
+  .content-what{
+    // margin-bottom: 4.5rem;
+    margin-top: 0;
+    & .article-container{
+      margin-top: 0 !important;
+    }
+    & .text-box{
+      margin-bottom: 0;
+    }
+    & .content-box{
+      padding-bottom: 4rem;
+      margin-bottom: 2.5rem;
+    }
+  }
+
+  // video
+
+  .video-wrapper{
+    margin: 3rem 0 0 0;
+  }
+
+  .visible-date{
+    display: inline-block;
+  }
+
+  .scroll-down{
+    display: block;
+    color: $dark;
+    font-size: 2rem;
+    -webkit-transition: $transition-quick;
+    transition: $transition-quick;
+  }
+
+  .modal-recipe{
+    & .uk-modal-dialog{
+      width: 66%;
+      max-width: 1100px;
+    }
+    & .button-wide-xs{
+      display: inline-block;
+    }
+    & .post-content-half-space{
+      margin: 0 0 1rem 0;
+    }
+  }
+
+  // Footer
+  footer{
+    & nav{
+      margin: -1rem 0 .5rem 0;
+      & li{
+        margin-right: 1rem;
+        display: inline-block;
+        &:last-child{
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  & .text-box{
+    margin: 0 0 .5rem 0;
+    & p{
+      display: inline-block;
+    }
+  }
+
+  // 404
+  .four-zero-four{
+    margin: -1rem 0 6.5rem;
+  }
+}
+
+// lg - from 1200
+@media only screen and (min-width: 75em) {
+  .index-header{
+    margin: 0 auto 6rem auto;
+    padding: 0;
+    height: 100vh;
+    & .content-box{
+      // margin: 7rem 0 3rem 0;
+      margin: -.6rem 0 0 0;
+      padding: 0 2rem 0 0;
+    }
+    & .text-box{
+      margin: 0 0 2.5rem 0;
+    }
+  }
+  .content-box-wrapper{
+    height: 100vh
+  }
+  .fake-height{
+    height: 56vh;
+  }
+  .down-box{
+    position: absolute !important;
+    bottom: 1rem;
+    left: 50%;
+    margin-left: -1.5rem;
+    text-align: center;
+    z-index: 1;
+    // cursor: pointer;
+  }
+  .internal-header{
+    height: inherit;
+  }
+}

@@ -1,0 +1,154 @@
+---
+layout: basic-structure
+---
+
+{% include header-home.html %}
+
+<!-- section -->
+<main class="content content-home" id="scroll-to-content">
+  <!-- wrapper -->
+  <div class="wrapper container-fluid">
+
+    <!-- row what -->
+    <div class="row" uk-scrollspy="cls: uk-animation-fade; delay: 100">
+      <!-- col -->
+        <div class="col-xs-12 col-sm-6 col-lg-offset-1 col-lg-5">
+          <a href="/sobre-animales-libres/">
+            <figure>
+              <img src="{{ page.what-image }}" alt="{{ page.alt-what-image }}">
+            </figure>
+          </a>
+        </div>
+      <!-- col end -->
+      <!-- col -->
+      <a class="index-section" href="/sobre-animales-libres/">
+        <div class="col-xs-12 col-sm-6 col-lg-5">
+          <h3 class="link-heading">{{ page.what-heading }}</h3>
+          <!-- text-box -->
+          <div class="text-box">
+            <p>{{ page.what-text }}</p>
+          </div>
+          <!-- text-box end -->
+          <a class="link link-mid no-underline" href="/sobre-animales-libres/">{{ page.what-button }}<span class="icon icon-long-arrow-right-light"></span></a>
+        </div>
+      </a>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+
+    <!-- row why -->
+    <div class="row" uk-scrollspy="cls: uk-animation-fade; delay: 100">
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6 col-lg-5 last-sm">
+        <a class="index-section" href="/por-qué-liberación-animal/">
+          <figure>
+            <img src="{{ page.why-image }}">
+          </figure>
+        </a>
+      </div>
+      <!-- col end -->
+      <!-- col -->
+      <a class="index-section" href="/por-qué-liberación-animal/">
+        <div class="col-xs-12 col-sm-6 col-lg-offset-1 col-lg-5">
+          <h3 class="link-heading">{{ page.why-heading }}</h3>
+          <!-- text-box -->
+          <div class="text-box">
+            <p>{{ page.why-text }}</p>
+          </div>
+          <!-- text-box end -->
+          <a class="link link-mid no-underline" href="/por-qué-liberación-animal/">{{ page.why-button }}<span class="icon icon-long-arrow-right-light"></span></a>
+        </div>
+      </a>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+
+    <!-- row lessons -->
+    <div class="row center-sm preview-lessons" uk-scrollspy="cls: uk-animation-fade; delay: 100">
+      <!-- col -->
+      <div class="col-xs-12 col-sm-10">
+        <a href="/lecciones/"><h3 class="link-heading">Lecciones</h3></a>
+        <!-- text-box -->
+        <div class="text-box">
+          <p>{{ page.lessons-text }}</p>
+        </div>
+        <!-- text-box end -->
+        <a class="button brand-background button-big button-wide-xs" href="/lecciones/">{{ page.lessons-button }}</a>
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+
+    <!-- row -->
+    <div class="row preview-events-and-articles">
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6" uk-scrollspy="cls: uk-animation-fade; delay: 100">
+        <!-- prewiew-event-article -->
+        <div class="preview-event-article preview-event">
+          <h5>Para Parchar</h5>
+          <!-- thumbnail -->
+          {% for event in site.events %}
+            {% if event.tags contains 'highlight-event' %}
+            <!-- big-thumbnail -->
+            <div class="big-thumbnail">
+              <a href="{{ event.url }}">
+                <figure>
+                  <img src="{{ event.image-landscape }}" alt="">
+                </figure>
+                <p class="category">{{ event.categories | join: ' &nbsp | &nbsp ' }}</p>
+                <h4 class="link-heading">{{ event.title }}</h4>
+                <!-- text-box -->
+                <div class="text-box">
+                  <p>{{ event.excerpt | truncate: 186 }}</p>
+                </div>
+                <!-- text-box end -->
+                <p class="author-date">{% assign m = event.event-date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ event.event-date | date: "%d" }} / {{ event.event-date | date: "%Y" }}</p>
+              </a>
+            </div>
+            <!-- big thumbnail end -->
+            {% endif %}
+          {% endfor %}
+        </div>
+        <!-- preview-event-article end -->
+      </div>
+      <!-- col end -->
+
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6" uk-scrollspy="cls: uk-animation-fade; delay: 100">
+        <!-- prewiew-event-article -->
+        <div class="preview-event-article">
+          <h5>Para Leer</h5>
+          {% for post in site.posts %}
+            {% if post.tags contains 'highlight-article' %}
+              <!-- big-thumbnail -->
+              <div class="big-thumbnail">
+                <a href="{{ post.url }}">
+                  <figure>
+                    <img src="{{ post.image-landscape }}" alt="">
+                  </figure>
+                  <p class="category">{{ post.categories | join: ' &nbsp | &nbsp ' }}</p>
+                  <h4 class="link-heading">{{ post.title }}</h4>
+                  <!-- text-box -->
+                  <div class="text-box">
+                    <p>{{ post.excerpt | truncate: 186 }}</p>
+                  </div>
+                  <!-- text-box end -->
+                  <p class="author-date">{{ post.author }} &nbsp; | &nbsp;{% assign m = post.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ post.date | date: "%d" }} / {{ post.date | date: "%Y" }}</p>
+                </a>
+              </div>
+              <!-- big thumbnail end -->
+            {% endif %}
+          {% endfor %}
+        </div>
+        <!-- prewiew-event-article end -->
+      </div>
+      <!-- col end -->
+
+    </div>
+    <!-- row end -->
+
+  </div>
+  <!-- wrapper end -->
+
+</main>
+<!-- section content end -->

@@ -1,0 +1,267 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?txxfyg');
+  src:  url('fonts/icomoon.eot?txxfyg#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?txxfyg') format('truetype'),
+    url('fonts/icomoon.woff?txxfyg') format('woff'),
+    url('fonts/icomoon.svg?txxfyg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-taller-veganista-logo:before {
+  content: "\e93b";
+}
+.icon-taller-veganista-mascot:before {
+  content: "\e93d";
+}
+.icon-taller-veganista-mascot-fill:before {
+  content: "\e93c";
+}
+.icon-arrow-down-light:before {
+  content: "\e900";
+}
+.icon-arrow-down:before {
+  content: "\e901";
+}
+.icon-arrow-left-light:before {
+  content: "\e902";
+}
+.icon-arrow-left:before {
+  content: "\e903";
+}
+.icon-arrow-right-light:before {
+  content: "\e904";
+}
+.icon-arrow-right:before {
+  content: "\e905";
+}
+.icon-arrow-up-light:before {
+  content: "\e906";
+}
+.icon-arrow-up:before {
+  content: "\e907";
+}
+.icon-behance:before {
+  content: "\e908";
+}
+.icon-bell:before {
+  content: "\e909";
+}
+.icon-calendar:before {
+  content: "\e90b";
+}
+.icon-chat:before {
+  content: "\e90c";
+}
+.icon-check:before {
+  content: "\e90d";
+}
+.icon-checkbox-check:before {
+  content: "\e90e";
+}
+.icon-clock:before {
+  content: "\e90f";
+}
+.icon-close-light:before {
+  content: "\e910";
+}
+.icon-close:before {
+  content: "\e911";
+}
+.icon-credit-card:before {
+  content: "\e912";
+}
+.icon-delivery:before {
+  content: "\e913";
+}
+.icon-down-light:before {
+  content: "\e914";
+}
+.icon-down:before {
+  content: "\e915";
+}
+.icon-download:before {
+  content: "\e916";
+}
+.icon-edit:before {
+  content: "\e917";
+}
+.icon-expand:before {
+  content: "\e918";
+}
+.icon-facebook:before {
+  content: "\e919";
+}
+.icon-full-screen:before {
+  content: "\e91a";
+}
+.icon-github:before {
+  content: "\e91b";
+}
+.icon-hamburger-bite:before {
+  content: "\e91c";
+}
+.icon-hamburger-two:before {
+  content: "\e91d";
+}
+.icon-hamburger:before {
+  content: "\e91e";
+}
+.icon-heart-fill:before {
+  content: "\e91f";
+}
+.icon-heart:before {
+  content: "\e920";
+}
+.icon-instagram:before {
+  content: "\e921";
+}
+.icon-left-light:before {
+  content: "\e923";
+}
+.icon-left:before {
+  content: "\e924";
+}
+.icon-linkedin:before {
+  content: "\e925";
+}
+.icon-load:before {
+  content: "\e926";
+}
+.icon-localization:before {
+  content: "\e927";
+}
+.icon-lock:before {
+  content: "\e928";
+}
+.icon-long-arrow-left-light:before {
+  content: "\e929";
+}
+.icon-long-arrow-right-light:before {
+  content: "\e92a";
+}
+.icon-mail-round:before {
+  content: "\e92b";
+}
+.icon-mail:before {
+  content: "\e92c";
+}
+.icon-meetup:before {
+  content: "\e92d";
+}
+.icon-minus:before {
+  content: "\e92e";
+}
+.icon-pinterest:before {
+  content: "\e92f";
+}
+.icon-plus:before {
+  content: "\e930";
+}
+.icon-right-light:before {
+  content: "\e931";
+}
+.icon-right:before {
+  content: "\e932";
+}
+.icon-search:before {
+  content: "\e933";
+}
+.icon-secure-pay:before {
+  content: "\e934";
+}
+.icon-share:before {
+  content: "\e935";
+}
+.icon-shopping-bag:before {
+  content: "\e936";
+}
+.icon-smile:before {
+  content: "\e937";
+}
+.icon-spotify:before {
+  content: "\e938";
+}
+.icon-star-fill:before {
+  content: "\e939";
+}
+.icon-star:before {
+  content: "\e93a";
+}
+.icon-telegram:before {
+  content: "\e93e";
+}
+.icon-tik-tok:before {
+  content: "\e93f";
+}
+.icon-trash:before {
+  content: "\e940";
+}
+.icon-triangle-down:before {
+  content: "\e941";
+}
+.icon-triangle-left:before {
+  content: "\e942";
+}
+.icon-triangle-right:before {
+  content: "\e943";
+}
+.icon-triangle-up:before {
+  content: "\e944";
+}
+.icon-tumblr:before {
+  content: "\e945";
+}
+.icon-twitter:before {
+  content: "\e946";
+}
+.icon-up-light:before {
+  content: "\e947";
+}
+.icon-up:before {
+  content: "\e948";
+}
+.icon-upload:before {
+  content: "\e949";
+}
+.icon-user:before {
+  content: "\e94a";
+}
+.icon-vimeo:before {
+  content: "\e94b";
+}
+.icon-warning:before {
+  content: "\e94c";
+}
+.icon-whatsapp:before {
+  content: "\e94d";
+}
+.icon-world:before {
+  content: "\e94e";
+}
+.icon-youtube:before {
+  content: "\e94f";
+}
+.icon-ko-fi:before {
+  content: "\e922";
+}
+.icon-buy-me-a-coffee:before {
+  content: "\e90a";
+}
