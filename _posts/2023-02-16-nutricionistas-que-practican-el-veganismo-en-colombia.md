@@ -19,4 +19,4 @@ excerpt: >-
   Las dietas a base de plantas bien planeadas son saludables, nutricionalmente adecuadas y más sostenibles ambientalmente. Esta es una lista con algunos y algunas nutricionistas especializados en nutrición a base de plantas acá en Colombia
 published: true
 ---
-Si quieres hacer parte de esta lista o proponer a alguien puedes enviarnos un [correo,](mailto:hola@tallerveganista.com){:class="link" target="_blank"} escribirnos en [Telegram](https://t.me/joinchat/J9QQERRxaty5e3lfNBtHdw){:class="link" target="_blank"} o usar el chat de la esquina inferior derecha.
+Si quieres hacer parte de esta lista o proponer a alguien puedes enviarnos un [correo,](mailto:4nimaleslibr3s@proton.me){:class="link" target="_blank"} escribirnos en [Telegram](https://t.me/animaleslibres){:class="link" target="_blank"} o usar el chat de la esquina inferior derecha.

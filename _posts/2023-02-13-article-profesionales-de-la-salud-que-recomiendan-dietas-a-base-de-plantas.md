@@ -21,4 +21,4 @@ excerpt: >-
   Lista con varios profesionales de la salud que se destacan por sus investigaciones sobre nutrición y además promueven la alimentación a base de plantas ante sus pacientes y por medio de los contenidos que producen.
 published: true
 ---
-Si hace falta alguien en esta lista puedes enviarnos un [correo,](mailto:hola@tallerveganista.com){:class="link" target="_blank"} escribirnos en [Telegram](https://t.me/joinchat/J9QQERRxaty5e3lfNBtHdw){:class="link" target="_blank"} o usar el chat de la esquina inferior derecha.
+Si hace falta alguien en esta lista puedes enviarnos un [correo,](mailto:4nimaleslibr3s@proton.me){:class="link" target="_blank"} escribirnos en [Telegram](https://t.me/animaleslibres){:class="link" target="_blank"} o usar el chat de la esquina inferior derecha.
