@@ -18,6 +18,6 @@ why-text: El cuerpo de ningún ser que siente y tiene una experiencia subjetiva 
 why-button: Texto completo
 lessons-text: Las lecciones abarcan algunas características y comportamientos de las especies de animales no humanos más explotadas, las prácticas estándar de las diferentes industrias que les explotan, una mirada hacia las estrategias de marketing para promocionar productos de origen animal, qué es veganismo y cuál es el origen de esta práctica e ideología, una introducción a la nutrición basada en plantas, riesgos que trae el consumo de alimentos de origen animal, y el impacto ambiental de las industrias de explotación animal.
 lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
-description: Oponerse a la explotación es luchar por una sociedad justa. Acá está toda la información que necesitas para unirte a la lucha por la liberación colectiva, desde tus hábitos de vida y tu participación ciudadana.
+description: Animales Libres es un proyecto editorial dedicado a ampliar el conocimiento sobre los animales víctimas de violencia sistemática, y las prácticas estándar de las industrias que les explotan. Queremos ayudar a construir un marco teórico que permita definir de manera consciente la postura ideológica y/o los hábitos de vida, respecto a la apropiación de los cuerpos de los animales no humanos para fines comerciales y otros, además de recopilar la información necesaria para practicar el veganismo exitosamente.
 
 ---
