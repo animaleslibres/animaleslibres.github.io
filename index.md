@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Sistema de alimentación a base de plantas y liberación animal
-image: assets/images/animales-libres-cover.png
+image: assets/images/animales-libres-cover.jpg
 permalink: "/"
 alt-why-image: Cerdo enjaulado
 alt-what-image: Animales en clase

@@ -1,7 +1,7 @@
 ---
 layout: what
 title: Sobre Animales Libres
-image: assets/images/animales-libres-cover.png
+image: assets/images/animales-libres-cover.jpg
 author: Alejandro Narváez Isaza
 permalink: "/sobre-animales-libres/"
 date: 2023-03-28

@@ -23,10 +23,12 @@ email: 4nimaleslibr3s@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Animales Libres es un proyecto editorial dedicado a ampliar el conocimiento sobre los animales víctimas de violencia sistemática, y las prácticas estándar de las industrias que les explotan. Queremos ayudar a construir un marco teórico que permita definir de manera consciente la postura ideológica y/o los hábitos de vida, respecto a la apropiación de los cuerpos de los animales no humanos para fines comerciales y otros, además de recopilar la información necesaria para practicar el veganismo exitosamente.
 author: Animales Libres / Fluorescente
+image: assets/images/animales-libres-cover.jpg
+logo: assets/images/animales-libres-logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://animaleslibres.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
 github_username: animaleslibres
+locale: es_CO
 
 # Build settings
 theme: minima
