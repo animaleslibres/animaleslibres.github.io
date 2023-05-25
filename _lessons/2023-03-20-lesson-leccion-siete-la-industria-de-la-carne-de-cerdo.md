@@ -10,7 +10,7 @@ excerpt: Características de la especie <i>Sus Scrofa Domesticus,</i> prácticas
 recipe-introduction:
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-07-industria-de-la-carne-de-cerdo-square.jpg"
-alt-image:
+alt-image: Cerdos mirando las rejas de su lugar de confinamiento, un cerdo asoma la nariz.
 permalink: "/la-industria-de-la-carne-de-cerdo/"
 description: Características de la especie <i>Sus Scrofa Domesticus,</i> prácticas estándar de la industria ganadera en Colombia, y consecuencias para quienes trabajan en mataderos.
 ---

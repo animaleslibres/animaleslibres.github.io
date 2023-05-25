@@ -10,7 +10,7 @@ excerpt: La industria de la leche aprovecha las tradiciones y la adicción a los
 recipe-introduction:
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-06-mercadeo-y-adiccion-a-los-lacteos-square.jpg"
-alt-image:
+alt-image: Ilustración de un niño obeso comiendo pizza y malteada.
 permalink: "/mercadeo-y-adicción-a-los-lácteos/"
 description: La industria de la leche aprovecha las tradiciones y la adicción a los lácteos para posicionar sus productos como necesarios y saludables.
 ---

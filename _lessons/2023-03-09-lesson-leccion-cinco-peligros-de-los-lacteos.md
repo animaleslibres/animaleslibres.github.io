@@ -10,7 +10,7 @@ excerpt: Riesgos para la salud relacionados con el consumo de lácteos y cuestio
 recipe-introduction:
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-05-peligros-de-los-lacteos-square.jpg"
-alt-image:
+alt-image: Ilustración de una caja de leche similar a la del video "Coffee and TV" de la banda "Blur", con la cara de Chucky, sosteniendo un cuchillo en postura amenazante.
 permalink: "/leccion-peligros-de-los-lácteos/"
 description: Riesgos para la salud relacionados con el consumo de lácteos y cuestionamientos a los mitos que la industria ha posicionado en nuestra cultura.
 ---
