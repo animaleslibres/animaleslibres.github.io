@@ -5,7 +5,7 @@ tags:
 - lesson
 title: La industria de la carne de pollo
 category: lesson
-date: 2023-03-27
+date: 2023-04-28
 excerpt: Prácticas estándar de la industria de la carne de pollo.
 recipe-introduction: 
 author: Alejandro Narváez Isaza
