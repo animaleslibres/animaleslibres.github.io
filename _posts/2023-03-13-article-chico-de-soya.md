@@ -13,6 +13,7 @@ image-landscape: "/assets/images/posts/chico-de-soya-landscape.jpg"
 image: "/assets/images/posts/chico-de-soya-square.jpg"
 permalink: "/chico-de-soya/"
 description: Cuando era niño comía lo que mis padres me decían que comiera. No me preocupaba por eso, era fácil y me producía alegría...
+published: false
 
 ---
 Cuando era niño comía lo que mis padres me decían que comiera. No me preocupaba por eso, era fácil y me producía alegría.
