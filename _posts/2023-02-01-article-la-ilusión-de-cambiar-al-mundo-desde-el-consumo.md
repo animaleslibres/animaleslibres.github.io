@@ -86,7 +86,7 @@ El baboso David Barguil en campaña presidencial en el 2022. Los animalistas veg
 
 ['Estudien vagos': el polémico grito de Cabal a unos manifestantes・Cablenoticias](https://www.youtube.com/watch?v=fgjgnXTYK5U){:target='_blank' class="caption"}
 
-Quien acompaña a Maria Fernanda Cabal es Alfredo Ramos Maya, candidato de Múnera antes de que declinase su apoyo para apoyar al uribista Luis Carlos Vélez.
+Quien acompaña a Maria Fernanda Cabal es Alfredo Ramos Maya, candidato de Múnera antes de que declinase su apoyo para apoyar al otro uribista Luis Carlos Vélez.
 {:class="caption-no-link"}
 
 Algunas personas infames que han pasado por el partido conservador al que sirven Juan Esteban Builes (Goyo), Federico Carvajal (Federicovegan) y Álvaro Múnera:
