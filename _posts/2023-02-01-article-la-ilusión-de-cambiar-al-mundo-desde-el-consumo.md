@@ -6,7 +6,7 @@ tags:
 - article
 - highlight-article
 title: La ilusión de cambiar el mundo desde el consumo
-date: 2023-02-01
+date: 2023-09-04
 excerpt: Cuando practicamos el veganismo nos excluimos de participar directamente en un sistema
   de producción injusto y violento que debería terminar pero que sigue funcionando
   sin nuestra participación. Habría que cuestionar si es verdad que la población vegana ha aumentado
@@ -69,6 +69,19 @@ Es muy fácil pensar que como mis hábitos de consumo están alineados con mis v
 El insufrible antiespecista Óscar Horta, quién se toma la atribución de decidir quíen es antiespecista y quién no, en un evento de la _Corporación Raya_ (seguidores de Gary Yourofsky) hablando de su libro _"Un paso adelante en defensa de los animales",_ en el Parque Explora, donde hay un acuario.
 {:class="caption-no-link"}
 
-Entre quienes por sus hábitos de consumo flotan por encima de la inmoral y asesina clase trabajadora, encontramos a narcisistas de redes sociales y líderes de activismos animalistas como Federico Carvajal, Juan Esteban Builes, Álvaro Múnera y Andrea Pradilla, quienes trabajan para partidos de derecha de la abierta o de la solapada, sirviendo a los intereses reaccionarios de sus jefes políticos, instrumentalizando el animalismo y el veganismo a favor del neoliberalismo, el imperialismo, la corrupción, el paramilitarismo y el detrimento de la calidad de vida de asesinos y asesinas de animales que no merecen sino el abuso.
+Entre quienes por sus hábitos de consumo flotan por encima de la inmoral y asesina clase trabajadora, encontramos a narcisistas de redes sociales y líderes de activismos animalistas como Federico Carvajal, Juan Esteban Builes, Álvaro Múnera, Juan Carlos Lozada Vargas y Andrea Pradilla, quienes trabajan para partidos de derecha de la abierta o de la solapada, sirviendo a los intereses reaccionarios de sus jefes políticos, instrumentalizando el animalismo y el veganismo a favor del neoliberalismo, el imperialismo, la corrupción, el paramilitarismo y el detrimento de la calidad de vida de asesinos y asesinas de animales que no merecen sino el abuso.
+
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/u034kIhXYgc?si=KCbAkDppWg-iWfx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[David Barguil critica “vagabundería de Fecode, que a clase no quiere volver, pero a las marchas sí・Noticias Caracol](https://www.youtube.com/watch?v=u034kIhXYgc){:target='_blank' class="caption"}
+
+El baboso David Barguil en campaña presidencial en el 2022. Los animalistas veganos Juan Esteban Builes y Álvaro Múnera que ahora piden un voto "por los animales", probablemente estarán trabajando para la campaña de algún personaje similar en alcaldías, gobernaciones, presidencia, etc... suponiendo que debemos no sólo tragarnos su servicio a la clase depredadora por que son animalistas y veganos, sino que debemos salir a hacer campaña por ellos en nombre de "los animales", como lo hacen organizadores y organizadoras de activismos para la promoción del veganismo, argumentando que hay que entrar en la política y cualquiera que trabaje por los animales es bienvenido. Algunas personas infames que han pasado por el partido conservador al que pertenecen Goyo y Múnera:
+{:class="caption-no-link"}
+
+Luis Alfredo Ramos (Exgobernador de Antioquia condenado por concierto para delinquir agravado con la finalidad de promover grupos paramilitares), Martha Lucía Ramírez (Expresidenta del gobierno criminal de Iván Duque y posible socia del testaferro del paramilitarismo Memo Fantasma), Andrés Felipe Árias (Uribista condenado por celebración de contratos sin el cumplimiento de los requisitos legales en el caso Agro Ingreso Seguro), Andrés Pastrana (Expresidente financiado por el paramilitarismo según las declaraciones de Salvatore Mancuso, y amigo de Jeffrey Epstein), Aida Merlano (Condenada por corrupción al sufragante agravado o compra de votos), William Montes Medina (Condenado por concierto para delinquir con paramilitares), Yidis Medina (Condenada por cohecho propio en el caso de la fraudulenta reelección de Álvaro Uribe Vélez), Alejandro Ordóñez (Fanático religioso y fascista que usó a la procuraduría en una agencia al servicio de sus intereses políticos).
+{:class="caption-no-link"} 
+
 
 Si nos negamos a participar en otros movimientos sociales que luchan por los intereses de la clase trabajadora, o permitimos que animalistas enemigos del pueblo lideren la lucha por la liberación animal, nos exponemos a la captura de nuestra ideología por parte del capitalismo, nos dividimos y aislamos de nuestras comunidades, disminuimos nuestra capacidad de influencia todavía más, y terminamos como idiotas útiles sirviendo los intereses de la clase depredadora.
