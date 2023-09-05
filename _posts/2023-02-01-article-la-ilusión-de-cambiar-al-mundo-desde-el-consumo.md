@@ -66,7 +66,7 @@ Es muy fácil pensar que como mis hábitos de consumo están alineados con mis v
 
 [El sentir de los animales・Ciencia en bicicleta・Parque Explora](https://www.youtube.com/watch?v=njX3O_hPejw){:target='_blank' class="caption"}
 
-El insufrible antiespecista Óscar Horta, quién se toma la atribución de decidir quíen es antiespecista y quién no, hablando de su libro "Un paso adelante en defensa de los animales", en el Parque Explora, donde hay un acuario.
+El insufrible antiespecista Óscar Horta, quién se toma la atribución de decidir quíen es antiespecista y quién no, en un evento de la _Corporación Raya_ (seguidores de Gary Yourofsky) hablando de su libro _"Un paso adelante en defensa de los animales",_ en el Parque Explora, donde hay un acuario.
 {:class="caption-no-link"}
 
 Entre quienes por sus hábitos de consumo flotan por encima de la inmoral y asesina clase trabajadora, encontramos a narcisistas de redes sociales y líderes de activismos animalistas como Federico Carvajal, Juan Esteban Builes, Álvaro Múnera y Andrea Pradilla, quienes trabajan para partidos de derecha de la abierta o de la solapada, sirviendo a los intereses reaccionarios de unos jefes políticos criminales, instrumentalizando el animalismo y el veganismo a favor del neoliberalismo, el imperialismo, la corrupción, el paramilitarismo y el detrimento de la calidad de vida de asesinos y asesinas de animales que no merecen sino el abuso.
