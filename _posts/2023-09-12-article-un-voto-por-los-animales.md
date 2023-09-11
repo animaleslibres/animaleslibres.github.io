@@ -87,11 +87,13 @@ El jefe directo de Álvaro Múnera, aunque no ha sido condenado tampoco parece u
 
 Adicionalmente, según Vorágine, el candidato Juan Diego Gómez estuvo presuntamente involucrado como coordinador en la estructura criminal del ex-senador del Partido Liberal Mario Castaño, condenado por liderar una red de corrupción para direccionar contratos de recursos públicos. Gómez también está denunciado por robo de tierra. El mismo medio informa que Juan Diego Gómez, junto con su hermano David Orlando Gómez Jimenez, director de la Central de Inversiones S.A (CISA) en Antioquia, estarían siendo investigados por la Corte Suprema de Justicia por presuntamente negociar bienes de extinción de dominio con Andrés Ávila, expresidente de la Sociedad de Activos Especiales (SAE), entidad que administra las propiedades del estado.
 
-<p class="p-big">"Los antecedentes del nuevo presidente del Senado de la República incluyen un negocio con dos socios de un narcotraficante, una denuncia por estafa, una disputa familiar por tierras, y el embargo de su apartamento, su sueldo y su carro."</p>
+> "Los antecedentes del nuevo presidente del Senado de la República incluyen un negocio con dos socios de un narcotraficante, una denuncia por estafa, una disputa familiar por tierras, y el embargo de su apartamento, su sueldo y su carro."
+>{: class="p-big"}
 
 [Los negocios turbios del nuevo presidente del Senado・Cuestión Pública・20 de Agosto de 2021.](https://cuestionpublica.com/negocios-turbios-del-nuevo-presidente-del-senado-juan-diego-gomez/){:class="caption" target='_blank'}
 
-<p class="p-big">"Cuando Gómez era presidente de la Comisión Quinta de la Cámara (2012 - 2013) tuvo una reunión privada con Eleuberto Martorelli, expresidente de Odebrecht en Colombia. Por esta época Odebrecht pagó al menos 2 millones de dólares en sobornos a senadores y políticos conocidos como "Los Bulldozer". En 2014, el señor César Hernández Sanmartín dio un crédito a la campaña de Gómez Jiménez al senado y seis meses después de las elecciones lavó dinero para la multinacional brasileña, hechos por los cuales fue condenado a casa por cárcel en 2017."</p>
+> "Cuando Gómez era presidente de la Comisión Quinta de la Cámara (2012 - 2013) tuvo una reunión privada con Eleuberto Martorelli, expresidente de Odebrecht en Colombia. Por esta época Odebrecht pagó al menos 2 millones de dólares en sobornos a senadores y políticos conocidos como "Los Bulldozer". En 2014, el señor César Hernández Sanmartín dio un crédito a la campaña de Gómez Jiménez al senado y seis meses después de las elecciones lavó dinero para la multinacional brasileña, hechos por los cuales fue condenado a casa por cárcel en 2017."
+>{: class="p-big"}
 
 [Sabemos lo que hiciste Juan Diego Gómez Jiménez・Cuestión Pública](https://cuestionpublica.com/sabemos-lo-que-hiciste/juan-diego-gomez-jimenez){:class="caption" target='_blank'}
 
