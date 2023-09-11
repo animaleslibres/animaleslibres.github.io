@@ -9,7 +9,6 @@ tags:
 date: '2023-02-13'
 author: Alejandro Narváez Isaza
 title: Profesionales de la salud que recomiendan dietas a base de plantas
-image-landscape: /assets/images/posts/vegan-shoppers-landscape.jpg
 image: >-
   /assets/images/posts/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas.jpg
 permalink: /profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/
