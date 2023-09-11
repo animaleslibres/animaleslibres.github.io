@@ -5,7 +5,7 @@ categories:
 tags:
 - article
 - highlight-article
-title: Un voto por los animales, ¿Y por qué más?
+title: Un voto por los animales, ¿y por qué más?
 date: 2023-09-11
 excerpt: Análisis del partido, movimientos y jefes políticos de quienes piden nuestro voto por los animales en nombre del partido conservador, y cuáles podrían ser sus posturas frente a otros temas relevantes a nuestros intereses.
 author: Alejandro Narváez Isaza
