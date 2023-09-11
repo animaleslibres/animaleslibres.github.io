@@ -75,7 +75,7 @@ Además de votar a favor de darle facultades extraordinarias a Aníbal Gaviria, 
 Alfredo Ramos Maya, acompañando a Maria Fernanda Cabal cuando le grita: "Estudien vagos" a manifestantes en un homenaje a las víctimas de la violencia. El ex-candidato a la alcaldía de Medellín le grita a los manifestantes: "aprendan historia". - Eso hago, gracias :)
 {:class="caption-no-link"}
 
-Luego de declinar su apoyo a Ramos Maya, Múnera decidió apoyar al también uribista Luis Carlos Vélez, conocido por revelar accidentalmente la campaña de manipulación mediática para promover el "no", en el plebiscito para refendar los acuerdos de paz con las FARC. Vélez es el "compañero que no cuida las comunicaciones".
+Luego de declinar su apoyo a Ramos Maya, Múnera decidió apoyar al también uribista Luis Carlos Vélez, conocido por revelar accidentalmente la campaña de manipulación mediática para promover el "no" en el plebiscito para refendar los acuerdos de paz con las FARC. Vélez es el "compañero que no cuida las comunicaciones".
 
 El movimiento al que pertenece el diputado Múnera es _Conservadores de vida,_ liderado por el ex-senador y actual candidato a la gobernación de Antioquia Juan Diego Gómez; sus demás integrantes son Nicolás Echeverry, Juan Esteban Villegas y Jhon Jaime Moncada. El movimiento se presenta con un discurso razonable de "familia multiespecie", "protección a los derechos de los seres sintientes", "desarrollo sostenible, responsable y equitativo", y "urbanismo sostenible de adaptación al cambio climático". Causas que Gómez no menciona en sus intervenciones como candidato a la gobernación de Antioquia.
 
@@ -107,7 +107,7 @@ Adicionalmente, según Vorágine, el candidato Juan Diego Gómez estuvo presunta
 
 ¿Por los animales todo?
 
-Anotación: Aunque no he estado muy involucrado en este proceso electoral, soy militante del Polo Democrático Alternativo, y reconozco que los partidos y movimientos de izquierda prácticamente desconocen a los animales, sus propuestas a favor de los animales se quedan cortas,  y hasta les instrumentalizan para propaganda, pero pensaría que es mejor presionar para cambiar esa situación, u organizar movimientos propios en lugar de unirse a partidos o movimientos hostiles hacia los intereses de la clase trabajadora. La solidaridad por los animales nunca justificará la indiferencia o el desprecio hacia nuestras propias comunidades.
+Anotación: Aunque no he estado muy involucrado en este proceso electoral, soy militante del Polo Democrático Alternativo, y reconozco que los partidos y movimientos de izquierda prácticamente desconocen a los animales, sus propuestas a favor de los animales se quedan cortas, y hasta les instrumentalizan para propaganda, pero pensaría que es mejor presionar para cambiar esa situación, u organizar movimientos propios en lugar de unirse a partidos o movimientos hostiles hacia los intereses de la clase trabajadora. La solidaridad por los animales nunca justificará la indiferencia o el desprecio hacia nuestras propias comunidades.
 
 ### Referencias
 
