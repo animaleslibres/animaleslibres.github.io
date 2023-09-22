@@ -112,7 +112,7 @@ Algunos alimentos de origen vegetal ricos en calcio:
 * Tempeh
 * Manzana
 * Coles de Bruselas
-* Fríjoles blancos de cabeza negra (Black eyed peas)
+* Fríjoles blancos de cabeza negra
 
 Se puede aumentar la absorción de hierro, calcio y zinc, consumiendo ajo y cebolla.
 
