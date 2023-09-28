@@ -109,6 +109,6 @@ Observar los procesos me recuerda que los desarrollos tecnológicos usualmente t
 
 * [Cómo manejar la luz en los pollos de engorde para que crezcan rápido y sanos・Animal Production Consultoría y Comercialización・Youtube](https://www.youtube.com/watch?v=bpKPDkH0R2s){:target='_blank' class="reference"}
 
-* [Pollos de granja・Veganuary](https://veganuary.com/es/pollos/){:target='_blank' class="reference"}
+* [Pollos de granja・Veganuary (No he investigado a esta institución, pero que cite su sitio web no quiere decir que les apoye)](https://veganuary.com/es/pollos/){:target='_blank' class="reference"}
 
-* [Chickens・Farm Sanctuary](https://www.farmsanctuary.org/chickens/){:target='_blank' class="reference"}
+* [Chickens・Farm Sanctuary (Esta institución aboga por la regulación de la explotación, idea con la que estoy profundamente en desacuerdo, pero publica información interesante sobre animales de granja)](https://www.farmsanctuary.org/chickens/){:target='_blank' class="reference"}

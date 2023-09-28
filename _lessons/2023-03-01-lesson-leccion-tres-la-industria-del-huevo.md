@@ -116,5 +116,5 @@ La práctica de matar a los polluelos recién nacidos se popularizó durante los
 * [Manual de gallinas ponedoras・Servicio Nacional de Aprendizaje](https://fdocuments.es/document/manual-de-gallina-ponedora-sena.html){:target='_blank' class="reference"}
 * [Facts & Stats・United Eggs Producers](https://unitedegg.com/facts-stats/){:target='_blank' class="reference"}
 * [Evolution of U.S. Egg Farming・United Eggs Producers](https://unitedegg.com/about/evolution-of-u-s-egg-farming//){:target='_blank' class="reference"}
-* [Chickens・Farm Sanctuary](https://www.farmsanctuary.org/chickens/){:target='_blank' class="reference"}
+* [Chickens・Farm Sanctuary (Esta institución aboga por la regulación de la explotación, idea con la que estoy profundamente en desacuerdo, pero publica información interesante sobre animales de granja)](https://www.farmsanctuary.org/chickens/){:target='_blank' class="reference"}
 * [Battery Brooding・Milton H Arndt](https://babel.hathitrust.org/cgi/pt?id=coo.31924003197419&view=1up&seq=9){:target='_blank' class="reference"}

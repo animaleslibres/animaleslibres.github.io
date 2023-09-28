@@ -173,7 +173,7 @@ Contrario a la creencia popular y la de las instituciones gubernamentales que de
 ### Referencias
 
 * [Cow・Britanica](https://www.britannica.com/animal/cow){:target='_blank' class="reference"}
-* [Cows・Farm Sanctuary](https://www.farmsanctuary.org/cows/){:target='_blank' class="reference"}
+* [Cows・Farm Sanctuary (Esta institución aboga por la regulación de la explotación, idea con la que estoy profundamente en desacuerdo, pero publica información interesante sobre animales de granja)](https://www.farmsanctuary.org/cows/){:target='_blank' class="reference"}
 * [Módulo Manejo Bovino・Fedegan](https://es.slideshare.net/Fedegan/cartilla-modulo-manejobovinocc/){:target='_blank' class="reference"}
 * [Ordeño Manual・SENA](https://repositorio.sena.edu.co/bitstream/handle/11404/472/vol1_ordeno_manual_op.pdf?sequence=12){:target='_blank' class="reference"}
 * [Inseminación Artificial・SENA](https://repositorio.sena.edu.co/bitstream/handle/11404/484/vol4_inseminacion_artificial_op.pdf?sequence=12&isAllowed=y){:target='_blank' class="reference"}
