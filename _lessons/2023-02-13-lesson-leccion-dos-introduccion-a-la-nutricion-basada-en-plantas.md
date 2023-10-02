@@ -81,7 +81,7 @@ La enzima que metaboliza estos ácidos grasos es la Delta-6 Desaturase que puede
 * Papas fritas
 * Nueces mixtas con aceites vegetales horneados (De paquete de mecato)
 
-Aunque no un requerimiento, se recomienda tomar suplementos de Omega 3. - DHA y EPA de mínimo 250ml por día, que provenga de microalgas.
+Aunque no es un requerimiento, se recomienda tomar suplementos de Omega 3. - DHA y EPA de mínimo 250ml por día, que provenga de microalgas.
 
 ### Hierro y zinc
 
