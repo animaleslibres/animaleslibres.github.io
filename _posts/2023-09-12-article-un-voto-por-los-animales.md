@@ -4,7 +4,7 @@ categories:
 - Activismo
 tags:
 - article
-- highlight-article
+- blog-gallery
 title: Un voto por los animales, ¿y por qué más?
 date: 2023-09-11
 excerpt: Análisis del partido, movimientos y jefes políticos de quienes piden nuestro voto por los animales en nombre del partido conservador, y cuáles podrían ser sus posturas frente a otros temas relevantes a nuestros intereses.
