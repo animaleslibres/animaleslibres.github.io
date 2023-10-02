@@ -39,7 +39,7 @@ Una buena aproximación para transitar hacia una alimentación a base de plantas
 
 ## Información básica sobre nutrición basada en plantas
 
-Buena parte del contenido para esta sección, está sustentado en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender. Yo no soy nutricionista, entonces puedo comenter algunas imprecisiones, pero dejo las referencias para seguir aprendiendo.
+Buena parte del contenido para esta sección, está sustentado en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender. Yo no soy nutricionista, entonces puedo cometer algunas imprecisiones, pero dejo las referencias para seguir aprendiendo.
 
 ### ¿Cuál es la dieta más adecuada?
 
