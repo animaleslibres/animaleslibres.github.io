@@ -66,7 +66,7 @@ Es muy fácil pensar que como mis hábitos de consumo están alineados con mis v
 
 [El sentir de los animales・Ciencia en bicicleta・Parque Explora](https://www.youtube.com/watch?v=njX3O_hPejw){:target='_blank' class="caption"}
 
-El antiespecista Óscar Horta, quién se toma la atribución de decidir quíen es antiespecista y quién no, en un evento de la _Corporación Raya_ (seguidores de Gary Yourofsky), hablando de su libro _"Un paso adelante en defensa de los animales",_ en el Parque Explora, donde hay un acuario.
+El antiespecista Óscar Horta, quién se toma la atribución de decidir quíen es antiespecista y quién no, en un evento de la _Corporación Raya,_ hablando de su libro _"Un paso adelante en defensa de los animales",_ en el Parque Explora, donde hay un acuario.
 {:class="caption-no-link"}
 
 Si nos negamos a participar en otros movimientos sociales que luchan por los intereses de la clase trabajadora, o permitimos que animalistas con jefes políticos hostiles con las luchas del pueblo lideren la lucha por la liberación animal, nos exponemos a la captura de nuestra ideología por parte del capitalismo, nos dividimos y aislamos de nuestras comunidades, disminuimos nuestra capacidad de influencia todavía más, y terminamos como idiotas útiles sirviendo los intereses de la clase depredadora. No digo que sea fácil ni puedo garantizar que no se presenten conflictos, pero es preferible trabajar con paciencia con el objetivo de influenciar a quienes luchan por los intereses de la clase trabajadora para que a su vez luchen por la emancipación de los animales, que venderse a los intereses de la clase depredadora.
