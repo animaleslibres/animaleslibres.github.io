@@ -566,6 +566,7 @@ blockquote{
     font-family: $sans-serif;
     font-weight: $bold;
     font-size: $small-text;
+    color: $dark !important;
     & span{
       font-size: $small-text;
       margin: 0 .5rem;
@@ -602,7 +603,7 @@ blockquote{
 }
 
 .alert{
-  background-color: $brand;
+  background-color: $brand-2;
   color: $dark;
 }
 
