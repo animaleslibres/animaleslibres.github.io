@@ -78,7 +78,7 @@ _“La última mentira que se ha esparcido sobre mi es que soy un racista, porqu
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky](https://www.youtube.com/watch?v=pqhUIns86cA){:target='_blank' class="caption"}
 
-Una de sus estudiantes afroamericanas le dijo que los animales no humanos vivían como reyes y reinas. Este señor respondió que lastimosamente viven como _“Burguer Kings”_ y _“Dairy Queens”_ e inmediatamente después le preguntó _“¿Qué desayunaste esta mañana? ¿Cadáver de vaca, cadáver de negro o cadáver de judío?”_ y _“¿De qué están hechos tus zapatos? ¿de piel de vaca, de piel de negro o de piel de judío?_
+Una de sus estudiantes afroamericanas le dijo que los animales vivían como reyes y reinas. Este señor respondió que lastimosamente viven como _“Burguer Kings”_ y _“Dairy Queens”_ e inmediatamente después le preguntó _“¿Qué desayunaste esta mañana? ¿Cadáver de vaca, cadáver de negro o cadáver de judío?”_ y _“¿De qué están hechos tus zapatos? ¿de piel de vaca, de piel de negro o de piel de judío?_
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky](https://youtu.be/pqhUIns86cA?t=729){:target='_blank' class="caption"}
 
@@ -86,7 +86,7 @@ _“La gente negra ha venido marchando en las calles de Estados Unidos porque un
 
 Hay veganas, veganos y activistas por la liberación animal dentro de la población afroamericana que son constantemente ignorados por activistas veganos que por alguna razón han estado en el lado bueno de los algoritmos, y con mucha frecuencia se atreven a hablar de “los negros” como si fueran todos y todas lo mismo. La legitimidad del movimiento anti-racista se sigue sosteniendo, aún suponiendo que en las acciones contra la brutalidad policial y el racismo institucional no hay personas veganas. Gary Yourofsky remueve de consideración moral a quienes trabajan por la reivindicación de sus derechos, porque su supuesta hipocresía descalifica una causa justa. Su postura no es muy diferente a la de cualquier suprematista blanco.
 
-También hay grupos de activismo por los derechos de los animales en Palestina como la [Palestinian Animal League.](https://pal.ps/en/){:target='_blank' class="link"} Negar la existencia de personas veganas y movimientos por los derechos de los animales no humanos en Palestina, es instrumentalizar el veganismo para justificar el _apartheid_ al que el régimen de ocupación israelita tiene sometida a esta población, y deslegitimar una causa justa. Tampoco tiene mucho sentido porque básicamente en todas las culturas y en todos los países se utilizan a los animales como recursos. Si analizamos las cifras, los países "desarrollados" son responsables por más muertes de animales tanto por ganadería y pesca como por impacto ambiental de su población, que los países "subdesarrollados".
+También hay grupos de activismo por los derechos de los animales en Palestina como la [Palestinian Animal League.](https://pal.ps/en/){:target='_blank' class="link"} Negar la existencia de personas veganas y movimientos por los derechos de los animales en Palestina, es instrumentalizar el veganismo para justificar el _apartheid_ al que el régimen de ocupación israelita tiene sometida a esta población, y deslegitimar una causa justa. Tampoco tiene mucho sentido porque básicamente en todas las culturas y en todos los países se utilizan a los animales como recursos. Si analizamos las cifras, los países "desarrollados" son responsables por más muertes de animales tanto por ganadería y pesca como por impacto ambiental de su población, que los países "subdesarrollados".
 
 ### La misantropía de Gary Yourofsky
 
@@ -94,7 +94,7 @@ _“Soy un misántropo, no un racista, odio a todos los seres humanos. Palestino
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky](https://youtu.be/pqhUIns86cA?t=23){:target='_blank' class="caption"}
 
-Gary Yourofsky no tiene en cuenta que los movimientos sociales están compuestos por animales humanos, y que el diminuto movimiento por la liberación animal no va a atraer a más activistas, ni conseguir alianzas gritando que odiamos a la humanidad. La misantropía es literalmente odio que puede tener consecuencias psicológicas peligrosas y no debería ser normalizado.
+Gary Yourofsky no tiene en cuenta que los movimientos sociales están compuestos por humanos, y que el diminuto movimiento por la liberación animal no va a atraer a más activistas, ni conseguir alianzas gritando que odiamos a la humanidad. La misantropía es literalmente odio que puede tener consecuencias psicológicas peligrosas y no debería ser normalizado.
 
 ### La hostilidad contra activistas de derechos humanos de Gary Yourofsky
 
