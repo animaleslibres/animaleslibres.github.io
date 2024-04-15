@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://animaleslibres.com/sitemap.xml
