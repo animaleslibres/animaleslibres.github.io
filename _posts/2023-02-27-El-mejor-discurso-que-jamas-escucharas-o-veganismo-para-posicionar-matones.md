@@ -52,7 +52,7 @@ El héroe del veganismo todavía está convencido de que con este comentario rep
 
 ![Gary Yourofsky y la violencia como estrategia para la liberación animal](../assets/images/posts/gary-yourofsky-rambo-landscape.jpg){:class="p-space-img"}
 
-### Gary Yourofsky proponiendo el asesinato como estrategia para la liberación animal
+### Gary Yourofsky proponiendo el asesinato de trabajadores como estrategia para la liberación animal
 
 _“Pasará en un futuro muy cercano que alguien entrará en un matadero o un laboratorio de vivisección con pistolas y le dirá a los trabajadores del matadero: “Quita tus cuchillos de las gargantas de estos cerdos ahora mismo o te voy a disparar. Somos los defensores. Tal vez te gustaría llamarlo violencia, pero ¡oye! te lo estás buscando. ¿Y toda esa mierda de que la violencia genera violencia? Cuando las fuerzas aliadas entraron a la Alemania Nazi y mataron Nazis para proteger Judíos, yo me pregunto: ¿Cuál fue la violencia que pasó después de eso?”_
 
